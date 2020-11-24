@@ -1,0 +1,101 @@
+CourseRegistrationId,Student.Nuid,Student.FirstName,Student.LastName,Student.UniversityEmail,Course.CourseId,Course.CourseName,Course.Instructor.InstructorId,Course.Instructor.FirstName,Course.Instructor.LastName,Course.Instructor.UniversityEmail
+56900,893727356,Kiel,Griffith,griffith.k@northeastern.edu,5331,Discrete Structures,1069,Brietta,Drinkwater,drinkwater.b@northeastern.edu
+83723,343054589,Porter,Blazewski,blazewski.p@northeastern.edu,6034,Information Retrieval,1374,Gretel,Chaperlin,chaperlin.g@northeastern.edu
+97974,361066653,Codie,Fishlock,fishlock.c@northeastern.edu,5700,Object-Oriented Design,1775,Germain,Bulle,bulle.g@northeastern.edu
+93181,771787259,Frannie,Souza,souza.f@northeastern.edu,5869,Special Topics in Artificial Intelligence,1110,Berne,Castenda,castenda.b@northeastern.edu
+58754,665787951,Sigismundo,Carlesso,carlesso.s@northeastern.edu,6812,Computer Systems,1110,Shaun,Risson,risson.s@northeastern.edu
+98305,360015747,Layton,Bridewell,bridewell.l@northeastern.edu,5700,Object-Oriented Design,1775,Germain,Bulle,bulle.g@northeastern.edu
+45038,974085082,Merridie,Chambers,chambers.m@northeastern.edu,5613,Machine Learning,1408,Mickey,Mangam,mangam.m@northeastern.edu
+79512,204424037,Sarah,Whightman,whightman.s@northeastern.edu,5419,Computer/Human Interaction,1110,Berne,Castenda,castenda.b@northeastern.edu
+56245,179527823,Ruy,Upsale,upsale.r@northeastern.edu,5837,Machine Learning,1069,Brietta,Drinkwater,drinkwater.b@northeastern.edu
+34009,911637662,Elbert,Wincer,wincer.e@northeastern.edu,5081,Empirical Research Methods,1687,Rees,Peasee,peasee.r@northeastern.edu
+91176,846711240,Gustaf,Kamenar,kamenar.g@northeastern.edu,5700,Object-Oriented Design,1775,Germain,Bulle,bulle.g@northeastern.edu
+31188,974085082,Merridie,Chambers,chambers.m@northeastern.edu,5081,Empirical Research Methods,1687,Rees,Peasee,peasee.r@northeastern.edu
+68519,835786781,Luther,Lillicrap,lillicrap.l@northeastern.edu,6876,Intensive Foundations of Computer Science,1837,Charissa,Higginbottam,higginbottam.c@northeastern.edu
+76471,361066653,Codie,Fishlock,fishlock.c@northeastern.edu,5759,Computer Systems,1229,Immanuel,McGreay,mcgreay.i@northeastern.edu
+31320,854471107,Rafael,Pockey,pockey.r@northeastern.edu,5331,Discrete Structures,1069,Brietta,Drinkwater,drinkwater.b@northeastern.edu
+22631,343054589,Porter,Blazewski,blazewski.p@northeastern.edu,5597,Foundations of Software Engineering,1542,Berty,Colbridge,colbridge.b@northeastern.edu
+55925,248149303,Elysha,Roderham,roderham.e@northeastern.edu,6987,Algorithms,1444,Dulcea,Timmens,timmens.d@northeastern.edu
+91231,702998899,Dee,Giacobini,giacobini.d@northeastern.edu,6376,Robotic Science and Systems,1193,Karalynn,Vagg,vagg.k@northeastern.edu
+23446,204424037,Sarah,Whightman,whightman.s@northeastern.edu,6703,Discrete Structures,1093,Jeramey,Demangel,demangel.j@northeastern.edu
+37274,987704889,Errol,Pattrick,pattrick.e@northeastern.edu,6876,Intensive Foundations of Computer Science,1837,Charissa,Higginbottam,higginbottam.c@northeastern.edu
+52174,893727356,Kiel,Griffith,griffith.k@northeastern.edu,6796,Object-Oriented Design,1775,Germain,Bulle,bulle.g@northeastern.edu
+26355,901698851,Quintus,Greenan,greenan.q@northeastern.edu,6130,Natural Language Processing,1542,Berty,Colbridge,colbridge.b@northeastern.edu
+47431,702998899,Dee,Giacobini,giacobini.d@northeastern.edu,5851,Discrete Structures,1110,Berne,Castenda,castenda.b@northeastern.edu
+58776,632952605,Gillan,Bastow,bastow.g@northeastern.edu,5809,Robotic Science and Systems,1624,Olivette,Shankland,shankland.o@northeastern.edu
+41672,702998899,Dee,Giacobini,giacobini.d@northeastern.edu,6282,Database Management Systems,1383,Mora,Daye,daye.m@northeastern.edu
+89657,612572959,Maurene,Trevallion,trevallion.m@northeastern.edu,6602,Computer/Human Interaction,1477,Margie,Bett,bett.m@northeastern.edu
+26431,105610890,Augie,Josling,josling.a@northeastern.edu,6934,Foundations of Artificial Intelligence,1651,Eugenie,Santorini,santorini.e@northeastern.edu
+27592,357708516,Bard,Delagnes,delagnes.b@northeastern.edu,6796,Object-Oriented Design,1775,Germain,Bulle,bulle.g@northeastern.edu
+24146,911637662,Elbert,Wincer,wincer.e@northeastern.edu,5538,Discrete Structures,1694,Christabella,Murrie,murrie.c@northeastern.edu
+32064,297121047,Roshelle,Simkins,simkins.r@northeastern.edu,5597,Foundations of Software Engineering,1542,Berty,Colbridge,colbridge.b@northeastern.edu
+10080,589241878,Cozmo,Bennett,bennett.c@northeastern.edu,6796,Object-Oriented Design,1775,Germain,Bulle,bulle.g@northeastern.edu
+71015,353081570,Winnie,Petrou,petrou.w@northeastern.edu,6376,Robotic Science and Systems,1193,Karalynn,Vagg,vagg.k@northeastern.edu
+17828,268796149,Felix,Pocklington,pocklington.f@northeastern.edu,6934,Foundations of Artificial Intelligence,1651,Eugenie,Santorini,santorini.e@northeastern.edu
+50205,632952605,Gillan,Bastow,bastow.g@northeastern.edu,6062,Information Retrieval,1694,Christabella,Murrie,murrie.c@northeastern.edu
+28526,854471107,Rafael,Pockey,pockey.r@northeastern.edu,6376,Robotic Science and Systems,1193,Karalynn,Vagg,vagg.k@northeastern.edu
+22490,974085082,Merridie,Chambers,chambers.m@northeastern.edu,5848,Foundations of Artificial Intelligence,1383,Mora,Daye,daye.m@northeastern.edu
+55849,665787951,Sigismundo,Carlesso,carlesso.s@northeastern.edu,5945,Intensive Foundations of Computer Science,1110,Shaun,Risson,risson.s@northeastern.edu
+63244,204424037,Sarah,Whightman,whightman.s@northeastern.edu,5487,Special Topics in Artificial Intelligence,1395,Carney,Huccaby,huccaby.c@northeastern.edu
+58107,589241878,Cozmo,Bennett,bennett.c@northeastern.edu,6130,Natural Language Processing,1542,Berty,Colbridge,colbridge.b@northeastern.edu
+23866,602259578,Karylin,Heaslip,heaslip.k@northeastern.edu,5837,Machine Learning,1069,Brietta,Drinkwater,drinkwater.b@northeastern.edu
+77521,665787951,Sigismundo,Carlesso,carlesso.s@northeastern.edu,5945,Intensive Foundations of Computer Science,1110,Shaun,Risson,risson.s@northeastern.edu
+19055,138002024,Edik,Goman,goman.e@northeastern.edu,6812,Computer Systems,1110,Shaun,Risson,risson.s@northeastern.edu
+27282,179527823,Ruy,Upsale,upsale.r@northeastern.edu,6034,Information Retrieval,1374,Gretel,Chaperlin,chaperlin.g@northeastern.edu
+31203,361066653,Codie,Fishlock,fishlock.c@northeastern.edu,5759,Computer Systems,1229,Immanuel,McGreay,mcgreay.i@northeastern.edu
+37133,319528189,Cherlyn,Look,look.c@northeastern.edu,5487,Special Topics in Artificial Intelligence,1395,Carney,Huccaby,huccaby.c@northeastern.edu
+92007,974085082,Merridie,Chambers,chambers.m@northeastern.edu,5081,Empirical Research Methods,1687,Rees,Peasee,peasee.r@northeastern.edu
+64702,360015747,Layton,Bridewell,bridewell.l@northeastern.edu,6148,Advanced Machine Learning,1093,Jeramey,Demangel,demangel.j@northeastern.edu
+17260,911637662,Elbert,Wincer,wincer.e@northeastern.edu,5055,Empirical Research Methods,1256,Caril,Mabbitt,mabbitt.c@northeastern.edu
+25462,357708516,Bard,Delagnes,delagnes.b@northeastern.edu,6034,Information Retrieval,1374,Gretel,Chaperlin,chaperlin.g@northeastern.edu
+33410,138002024,Edik,Goman,goman.e@northeastern.edu,5331,Discrete Structures,1069,Brietta,Drinkwater,drinkwater.b@northeastern.edu
+64292,911637662,Elbert,Wincer,wincer.e@northeastern.edu,6667,Discrete Structures,1312,Silvanus,Burtt,burtt.s@northeastern.edu
+45361,319528189,Cherlyn,Look,look.c@northeastern.edu,6987,Algorithms,1444,Dulcea,Timmens,timmens.d@northeastern.edu
+84578,602259578,Karylin,Heaslip,heaslip.k@northeastern.edu,6987,Algorithms,1444,Dulcea,Timmens,timmens.d@northeastern.edu
+48598,939204535,Georgie,Laurie,laurie.g@northeastern.edu,6916,Data Mining Techniques,1383,Mora,Daye,daye.m@northeastern.edu
+75826,911637662,Elbert,Wincer,wincer.e@northeastern.edu,6672,Natural Language Processing,1395,Carney,Huccaby,huccaby.c@northeastern.edu
+61408,361066653,Codie,Fishlock,fishlock.c@northeastern.edu,6888,Special Topics in Artificial Intelligence,1894,Cecelia,Lightwing,lightwing.c@northeastern.edu
+79807,179527823,Ruy,Upsale,upsale.r@northeastern.edu,6581,Advanced Machine Learning,1093,Jeramey,Demangel,demangel.j@northeastern.edu
+57752,343054589,Porter,Blazewski,blazewski.p@northeastern.edu,6796,Object-Oriented Design,1775,Germain,Bulle,bulle.g@northeastern.edu
+56865,724464106,Willem,Jurgenson,jurgenson.w@northeastern.edu,6707,Discrete Structures,1624,Olivette,Shankland,shankland.o@northeastern.edu
+31090,568348448,Shani,Bollon,bollon.s@northeastern.edu,6034,Information Retrieval,1374,Gretel,Chaperlin,chaperlin.g@northeastern.edu
+63029,670102245,Doloritas,Marcu,marcu.d@northeastern.edu,5845,Algorithms,1110,Shaun,Risson,risson.s@northeastern.edu
+91779,268796149,Felix,Pocklington,pocklington.f@northeastern.edu,5487,Special Topics in Artificial Intelligence,1395,Carney,Huccaby,huccaby.c@northeastern.edu
+69408,130112141,Clarice,Kerrane,kerrane.c@northeastern.edu,6353,Advanced Machine Learning,1165,Willy,Wellen,wellen.w@northeastern.edu
+93134,939204535,Georgie,Laurie,laurie.g@northeastern.edu,5297,Natural Language Processing,1593,Jaime,Floodgate,floodgate.j@northeastern.edu
+42341,248149303,Elysha,Roderham,roderham.e@northeastern.edu,5851,Discrete Structures,1110,Berne,Castenda,castenda.b@northeastern.edu
+14456,939204535,Georgie,Laurie,laurie.g@northeastern.edu,6672,Natural Language Processing,1395,Carney,Huccaby,huccaby.c@northeastern.edu
+39363,846711240,Gustaf,Kamenar,kamenar.g@northeastern.edu,6379,Machine Learning,1694,Christabella,Murrie,murrie.c@northeastern.edu
+82477,990650901,Francisco,Saing,saing.f@northeastern.edu,5877,Foundations of Software Engineering,1837,Charissa,Higginbottam,higginbottam.c@northeastern.edu
+81949,297121047,Roshelle,Simkins,simkins.r@northeastern.edu,6034,Information Retrieval,1374,Gretel,Chaperlin,chaperlin.g@northeastern.edu
+57607,353081570,Winnie,Petrou,petrou.w@northeastern.edu,6672,Natural Language Processing,1395,Carney,Huccaby,huccaby.c@northeastern.edu
+48040,612572959,Maurene,Trevallion,trevallion.m@northeastern.edu,6353,Advanced Machine Learning,1165,Willy,Wellen,wellen.w@northeastern.edu
+24567,602259578,Karylin,Heaslip,heaslip.k@northeastern.edu,6090,Robotic Science and Systems,1912,Helen-elizabeth,Barchrameev,barchrameev.h@northeastern.edu
+10274,967719988,Abra,Nise,nise.a@northeastern.edu,6672,Natural Language Processing,1395,Carney,Huccaby,huccaby.c@northeastern.edu
+20091,198150388,Shannan,Phebey,phebey.s@northeastern.edu,6602,Computer/Human Interaction,1477,Margie,Bett,bett.m@northeastern.edu
+41404,248149303,Elysha,Roderham,roderham.e@northeastern.edu,5297,Natural Language Processing,1593,Jaime,Floodgate,floodgate.j@northeastern.edu
+44234,771787259,Frannie,Souza,souza.f@northeastern.edu,5055,Empirical Research Methods,1256,Caril,Mabbitt,mabbitt.c@northeastern.edu
+78094,353081570,Winnie,Petrou,petrou.w@northeastern.edu,5050,Information Retrieval,1374,Gretel,Chaperlin,chaperlin.g@northeastern.edu
+67670,967719988,Abra,Nise,nise.a@northeastern.edu,6876,Intensive Foundations of Computer Science,1837,Charissa,Higginbottam,higginbottam.c@northeastern.edu
+13787,735029864,Britteny,Clementson,clementson.b@northeastern.edu,5538,Discrete Structures,1694,Christabella,Murrie,murrie.c@northeastern.edu
+85894,907722868,Myles,Leopold,leopold.m@northeastern.edu,5069,Algorithms,1775,Germain,Bulle,bulle.g@northeastern.edu
+35868,562122341,Mylo,Cholton,cholton.m@northeastern.edu,5837,Machine Learning,1069,Brietta,Drinkwater,drinkwater.b@northeastern.edu
+63081,360015747,Layton,Bridewell,bridewell.l@northeastern.edu,6379,Machine Learning,1694,Christabella,Murrie,murrie.c@northeastern.edu
+75126,846711240,Gustaf,Kamenar,kamenar.g@northeastern.edu,6672,Natural Language Processing,1395,Carney,Huccaby,huccaby.c@northeastern.edu
+26887,911637662,Elbert,Wincer,wincer.e@northeastern.edu,5069,Algorithms,1775,Germain,Bulle,bulle.g@northeastern.edu
+63583,990650901,Francisco,Saing,saing.f@northeastern.edu,5869,Special Topics in Artificial Intelligence,1110,Berne,Castenda,castenda.b@northeastern.edu
+77915,632952605,Gillan,Bastow,bastow.g@northeastern.edu,5877,Foundations of Software Engineering,1837,Charissa,Higginbottam,higginbottam.c@northeastern.edu
+98773,901698851,Quintus,Greenan,greenan.q@northeastern.edu,5353,Object-Oriented Design,1110,Shaun,Risson,risson.s@northeastern.edu
+40842,846711240,Gustaf,Kamenar,kamenar.g@northeastern.edu,6934,Foundations of Artificial Intelligence,1651,Eugenie,Santorini,santorini.e@northeastern.edu
+59530,410510468,Abramo,Steers,steers.a@northeastern.edu,6581,Advanced Machine Learning,1093,Jeramey,Demangel,demangel.j@northeastern.edu
+24306,939204535,Georgie,Laurie,laurie.g@northeastern.edu,6130,Natural Language Processing,1542,Berty,Colbridge,colbridge.b@northeastern.edu
+75635,423692543,Chalmers,Ryce,ryce.c@northeastern.edu,5331,Discrete Structures,1069,Brietta,Drinkwater,drinkwater.b@northeastern.edu
+90243,268796149,Felix,Pocklington,pocklington.f@northeastern.edu,5597,Foundations of Software Engineering,1542,Berty,Colbridge,colbridge.b@northeastern.edu
+76258,568348448,Shani,Bollon,bollon.s@northeastern.edu,5945,Intensive Foundations of Computer Science,1110,Shaun,Risson,risson.s@northeastern.edu
+91396,354165136,Randie,Lode,lode.r@northeastern.edu,6090,Robotic Science and Systems,1912,Helen-elizabeth,Barchrameev,barchrameev.h@northeastern.edu
+31176,198150388,Shannan,Phebey,phebey.s@northeastern.edu,6934,Foundations of Artificial Intelligence,1651,Eugenie,Santorini,santorini.e@northeastern.edu
+36989,130112141,Clarice,Kerrane,kerrane.c@northeastern.edu,6876,Intensive Foundations of Computer Science,1837,Charissa,Higginbottam,higginbottam.c@northeastern.edu
+60640,430709506,Yul,Knowling,knowling.y@northeastern.edu,5759,Computer Systems,1229,Immanuel,McGreay,mcgreay.i@northeastern.edu
+98536,410510468,Abramo,Steers,steers.a@northeastern.edu,6672,Natural Language Processing,1395,Carney,Huccaby,huccaby.c@northeastern.edu
+95223,854471107,Rafael,Pockey,pockey.r@northeastern.edu,5869,Special Topics in Artificial Intelligence,1110,Berne,Castenda,castenda.b@northeastern.edu
+57711,990650901,Francisco,Saing,saing.f@northeastern.edu,6916,Data Mining Techniques,1383,Mora,Daye,daye.m@northeastern.edu
